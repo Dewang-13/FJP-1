@@ -1,0 +1,31 @@
+import java.util.*;
+
+public class Main{
+    public static void main(String[] args) {
+        // write your code here
+
+        Scanner scn = new Scanner(System.in);
+        int low = scn.nextInt();
+        int high = scn.nextInt();
+
+        for(int i = low;i<=high;i++){
+            boolean isPrime = true;
+            int div =2;
+
+            while(div*div<=i){
+                int rem = i%div;
+
+                if(rem==0){
+                    isPrime=false;
+                    break;
+                }
+
+                div++;
+            }
+
+            if(isPrime==true){
+                System.out.println(i);
+            }
+        }
+    }
+}

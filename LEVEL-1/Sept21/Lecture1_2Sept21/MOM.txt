@@ -1,0 +1,26 @@
+Hi Friends,
+
+Many of you have received this email earlier today. I am resending it so that all those who have been added to the list later can receive 1st lecture's recordings.
+----------------------------------------------------------------------------------------------------------
+Hi friends,
+
+So, we had a rollercoaster first lecture. Apologies from our side for the mistakes.
+
+Minutes of the meeting
+1. NADOS Signup crashed because the limit of 3000 OTPs was over and invalid OTPs were being delivered.
+2. Due to a lack of communication channels, zoom webinar links could not be sent timely. (now we have this group as a communication channel)
+3. Eventually we had a lecture at 10:00 pm and nearly everyone (99%) attended.
+4. We started on the old pepcoding site and starting "Getting Started" of Level 1. We got introduced to "Printing in Java" and "Variables in Java".
+5. Homework was an MCQ on "Variables in Java"
+6. Please find attached the recording of the class.
+ Lecture 1.mp4
+7. The pdf at the last note in the class is attached at the bottom (will start posting proper notes from today's class)
+
+Agenda for today
+1. Communication channel is ready (fjp1@pepcoding.com)
+2. We will call you individually and help you signup on NADOS throughout the day.
+3. Let us meet at 8 pm tonight on this zoom link - https://zoom.us/webinar/register/WN_G36gAnNZSCKj1hlhi0OVsg
+4. Doubts - You've filled the google form. I will check the google form for unique entries and post videos (or textual replies) as FAQs on the NADOS app.
+5. Schedule - The schedule for the first 30 days at low-level and 12 months at a high level will be shared on the NADOS app as a video.
+
+Looking forward to seeing you at 8 pm tonight at - https://zoom.us/webinar/register/WN_G36gAnNZSCKj1hlhi0OVsg
